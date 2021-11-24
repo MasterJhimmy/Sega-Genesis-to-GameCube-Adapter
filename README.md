@@ -40,4 +40,5 @@ Male DB9 Pinout (Front View):
 | 8       | GND         |
 | 9       | D2          |
 
-Wiring Diagram
+Wiring Diagram:
+![alt text](https://github.com/MasterJhimmy/Sega-Genesis-to-GameCube-Adapter/blob/main/Genesis_to_GC.jpg?raw=true)
