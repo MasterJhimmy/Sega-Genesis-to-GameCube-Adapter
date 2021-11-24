@@ -13,5 +13,20 @@ Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "Seg
 
 ## Hardware
 
+Male DB9 Pinout (Front View) 
 ![alt text](https://www.consolesunleashed.com/sites/all/files/images/tech/sega-mega-drive/sega-mega-drive-controller-port-pinout.png)
-   Source: [https://www.consolesunleashed.com/tech/sega-mega-drive/](https://www.consolesunleashed.com/tech/sega-mega-drive/)
+ Source: [https://www.consolesunleashed.com/tech/sega-mega-drive/](https://www.consolesunleashed.com/tech/sega-mega-drive/)
+ 
+ Respective arduino pins:
+ 
+ | DB9 Pin | Arduino Pin |
+|---------|-------------|
+| 1       | A0          |
+| 2       | A1          |
+| 3       | A2          |
+| 4       | A3          |
+| 5       | Vin         |
+| 6       | A4          |
+| 7       | A5          |
+| 8       | GND         |
+| 9       | D2          |
