@@ -9,6 +9,7 @@ Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "Seg
 - Arduino Nano (or any 5V 16MHz Arduino, Atmega168 or Atmega328, just adapting the pin numbers)
 - Bidirectional Logic Level Converter
 - Male DB9 connector
+- 1kΩ Resistor
 - GameCube Controller Extension Cord
 
 ## Hardware
@@ -40,5 +41,10 @@ Male DB9 Pinout (Front View):
 | 8       | GND         |
 | 9       | D2          |
 
+
 Wiring Diagram:
 ![alt text](https://github.com/MasterJhimmy/Sega-Genesis-to-GameCube-Adapter/blob/main/Genesis_to_GC.jpg?raw=true)
+
+## Software
+
+After installing both libraries into your Arduino IDE (both of their pages have instructions in how to do so), upload the code to your Arduino.
