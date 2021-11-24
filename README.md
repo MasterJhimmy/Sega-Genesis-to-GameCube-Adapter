@@ -4,7 +4,7 @@ Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "Seg
 
 ## Requirements
 
-- NicoHood's Nintendo library
+- [NicoHood's Nintendo library](https://github.com/NicoHood/Nintendo)
 - jonthysell's SegaController library
 - Arduino Nano (or any 5V 16MHz Arduino, Atmega168 or Atmega328, just adapting the pin numbers)
 - Bidirectional Level Converter
