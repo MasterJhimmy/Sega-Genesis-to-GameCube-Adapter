@@ -18,7 +18,6 @@ First, cut the female end of the extension cord, using a multimeter in continuit
 GameCube Controller Pinout
 
 ![alt text](https://cdn.hackaday.io/images/402451542330582063.png)
-
 Source: [https://hackaday.io/project/162348/instructions](https://hackaday.io/project/162348/instructions)
 
 
