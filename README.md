@@ -50,3 +50,9 @@ Wiring Diagram:
 ## Software
 
 After installing both libraries into your Arduino IDE (both of their pages have instructions in how to do so), upload the code to your Arduino.
+
+## Sources
+
+Huge thanks to [NicoHood](https://github.com/NicoHood/) and [jonthysell](https://github.com/jonthysell/) for both their amazing libraries.
+
+Also, thanks to [tevey](https://github.com/tevey) for his [SNES to GameCube adapter](https://github.com/tevey/snesToGameCube), which not only inspired me to make this project, but taught me a great deal in how to use the "Nintendo" library correctly. 
