@@ -14,4 +14,4 @@ Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "Seg
 ## Hardware
 
 ![alt text](https://www.consolesunleashed.com/sites/all/files/images/tech/sega-mega-drive/sega-mega-drive-controller-port-pinout.png)
- Test
+ Available at: [https://www.consolesunleashed.com/tech/sega-mega-drive/](https://www.consolesunleashed.com/tech/sega-mega-drive/)
