@@ -4,6 +4,21 @@ Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "Seg
 
 ![alt text](https://github.com/MasterJhimmy/Sega-Genesis-to-GameCube-Adapter/blob/main/Adapter.jpg)
 
+Buttons:
+| GameCube   | Sega Genesis |
+|------------|--------------|
+| DPad UP    | UP           |
+| DPad DOWN  | DOWN         |
+| DPad LEFT  | LEFT         |
+| DPad RIGHT | RIGHT        |
+| A          | A            |
+| B          | B            |
+| X          | X            |
+| Y          | Y            |
+| R          | C            |
+| L          | Z            |
+| Z          | MODE         |
+
 ## Requirements
 
 - [NicoHood's Nintendo library](https://github.com/NicoHood/Nintendo)
