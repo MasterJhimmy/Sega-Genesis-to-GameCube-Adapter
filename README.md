@@ -10,4 +10,8 @@ Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "Seg
 - Bidirectional Logic Level Converter
 - Male DB9 connector
 - GameCube Controller Extension Cord
- 
+
+## Hardware
+
+![alt text](https://www.consolesunleashed.com/sites/all/files/images/tech/sega-mega-drive/sega-mega-drive-controller-port-pinout.png)
+ Test
