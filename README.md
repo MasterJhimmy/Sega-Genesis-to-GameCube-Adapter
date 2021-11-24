@@ -16,7 +16,7 @@ Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "Seg
 
 ## Hardware
 
-First, cut the female end of the extension cord, using a multimeter in continuity mode to check which wire corresponds to each pin in the male end. In my case I used a male and female DB9 connectors as a breakout, to use the same extension cord in multiple adapters, but you can solder the wires directly without the breakout.
+First, cut the female end of the extension cord, using a multimeter in continuity mode to check which wire corresponds to which pin in the male end. In my case I used a male and female DB9 connectors as a breakout, to use the same extension cord in multiple adapters, but you can solder the wires directly without the breakout.
 
 GameCube Controller Pinout:
 
