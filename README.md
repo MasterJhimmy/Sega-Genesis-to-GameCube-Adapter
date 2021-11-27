@@ -79,7 +79,7 @@ Wiring Diagram:
 
 ## Software
 
-After installing both libraries on your Arduino IDE (both of their pages have instructions on how to do so), upload the code to your Arduino.
+After installing both libraries on your Arduino IDE (both of their pages have instructions on how to do so), upload the code (Genesis_to_GC.ino or Genesis_to_GCanalog.ino) to your Arduino.
 
 ## Sources
 
