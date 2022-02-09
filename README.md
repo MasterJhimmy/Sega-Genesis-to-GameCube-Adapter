@@ -2,9 +2,13 @@
 
 Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "SegaController" library, allowing the use of Sega Genesis/Mega Drive controllers on GameCube/Wii hardware.
 
+Test Videos:
+- Genesis_to_GC.ino: [https://youtu.be/kbzL-ITwaIQ](https://youtu.be/kbzL-ITwaIQ)
+- Genesis_to_GCanalog: [https://youtu.be/HIg18HVipuE](https://youtu.be/HIg18HVipuE)
+
 ![alt text](https://github.com/MasterJhimmy/Sega-Genesis-to-GameCube-Adapter/blob/main/Adapter.jpg)
 
-Genesis_to_GC Buttons [(Test Video)](https://youtu.be/kbzL-ITwaIQ):
+Genesis_to_GC Buttons:
 | GameCube   | Sega Genesis |
 |------------|--------------|
 | DPad UP    | UP           |
@@ -19,7 +23,7 @@ Genesis_to_GC Buttons [(Test Video)](https://youtu.be/kbzL-ITwaIQ):
 | L          | Z            |
 | Z          | MODE         |
 
-Genesis_to_GCanalog Buttons [(Test Video)](https://youtu.be/HIg18HVipuE):
+Genesis_to_GCanalog Buttons:
 | GameCube                 | Sega Genesis |
 |--------------------------|--------------|
 | Analog UP (Full Push)    | UP           |
