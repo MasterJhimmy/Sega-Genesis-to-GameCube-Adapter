@@ -4,7 +4,7 @@ Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "Seg
 
 ![alt text](https://github.com/MasterJhimmy/Sega-Genesis-to-GameCube-Adapter/blob/main/Adapter.jpg)
 
-Genesis_to_GC Buttons:
+Genesis_to_GC Buttons [(Test Video)](https://youtu.be/kbzL-ITwaIQ):
 | GameCube   | Sega Genesis |
 |------------|--------------|
 | DPad UP    | UP           |
@@ -19,7 +19,7 @@ Genesis_to_GC Buttons:
 | L          | Z            |
 | Z          | MODE         |
 
-Genesis_to_GCanalog Buttons:
+Genesis_to_GCanalog Buttons [(Test Video)](https://youtu.be/HIg18HVipuE):
 | GameCube                 | Sega Genesis |
 |--------------------------|--------------|
 | Analog UP (Full Push)    | UP           |
