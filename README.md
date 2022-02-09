@@ -4,7 +4,7 @@ Simple use of NicoHood's "Nintendo" library in conjuction with jonthysell's "Seg
 
 Test Videos:
 - Genesis_to_GC.ino: [https://youtu.be/kbzL-ITwaIQ](https://youtu.be/kbzL-ITwaIQ)
-- Genesis_to_GCanalog: [https://youtu.be/HIg18HVipuE](https://youtu.be/HIg18HVipuE)
+- Genesis_to_GCanalog.ino: [https://youtu.be/HIg18HVipuE](https://youtu.be/HIg18HVipuE)
 
 ![alt text](https://github.com/MasterJhimmy/Sega-Genesis-to-GameCube-Adapter/blob/main/Adapter.jpg)
 
